@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physiology, Xiamen University, 2029 (expected)
+* M.S. in Biology and Medicine, Wuhan University of Science and Technology, 2025
+* B.S. in Biotechnology, Jianghan University, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* National Natural Science Foundation of China (No.12375349)
+  * Wuhan University & Wuhan University of Science and Technology
+  * Date: From autumn 2023 to summer 2024
+  * Contributions: Methodology, formal analysis, visualization, writing
+  * Supervisor: F. W., C. Y., J.J. Z., Y. Y.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* National Natural Science Foundation of China (No.32400555)
+  * Wuhan University of Science and Technology
+  * Date: From autumn 2024 to summer 2025
+  * Contributions: Methodology, formal analysis, data curation
+  * Supervisor: Z.H. L.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data integration analysis of single-cell and spatial multi-omics (ST, AFADESI-MSI) based on R/Python
+* High throughput sequencing data processing of NGS based on Linux
+* R software package development
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* J. Zhao, W. Chen, Y. Feng, Z. Jia, Z. Luo and J. Zhou, "Pan-cancer single-cell atlas reveals tumor hallmark gene modules and their clinical relevance, ICHIH 2024 IEEE Conference Proceedings. 
