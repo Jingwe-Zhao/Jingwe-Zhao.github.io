@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educational background
 ======
 * Ph.D in Physiology, Xiamen University, 2029 (expected)
 * M.S. in Biology and Medicine, Wuhan University of Science and Technology, 2025
 * B.S. in Biotechnology, Jianghan University, 2022
 
+
 Research experience
 ======
 * National Natural Science Foundation of China (No.12375349)
   * Wuhan University & Wuhan University of Science and Technology
-  * Date: From autumn 2023 to summer 2024
+  * Date: From summer 2023 to summer 2024
   * Contributions: Methodology, formal analysis, visualization, writing
   * Supervisor: F. W., C. Y., J.J. Z., Y. Y.
 
@@ -35,6 +36,7 @@ Skills
 * Data integration analysis of single-cell and spatial multi-omics (ST, AFADESI-MSI) based on R/Python
 * High throughput sequencing data processing of NGS based on Linux
 * R software package development
+
 
 Publications
 ======
