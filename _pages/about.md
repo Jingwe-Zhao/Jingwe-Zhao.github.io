@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics and reproductive medicine, leveraging computational approaches to address key challenges in reproductive health.
+I'm a Ph.D. candidate :technologist: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman: , leveraging computational approaches to address key challenges in reproductive health.
 
 Premature birth and pregnancy maintenance
 ======
