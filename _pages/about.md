@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate :technologist: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman: , leveraging computational approaches to address key challenges in reproductive health.
+I'm a Ph.D. candidate :student: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman:, leveraging computational approaches to address key challenges in reproductive health.
 
 Premature birth and pregnancy maintenance
 ======
-Premature birth (<37 weeks) results from disrupted pregnancy maintenance mechanisms, including progesterone signaling, immune tolerance, and cervical integrity. Common triggers include infection, placental dysfunction, and oxidative stress. Current research focuses on identifying biomarkers, developing therapies, and extending gestation to address this global health challenge.
+Premature birth (<37 weeks :hourglass_flowing_sand: ) results from disrupted pregnancy maintenance mechanisms, including progesterone signaling, immune tolerance, and cervical integrity. Common triggers include infection, placental dysfunction, and oxidative stress. Current research focuses on identifying biomarkers, developing therapies, and extending gestation :clock3: to address this global health challenge.
 
 
 Single-cell transcriptomics
